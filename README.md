@@ -1,2 +1,2 @@
 # decision-theory-behaviour-modelling
-Using decision theory to model different peoples' behaviour at a roulette table
+In this project i wish to discuss modelling the behaviours of different types of people given the value they place on money. In general, it is accepted that rich people place less value on money, since they have more of it. This in turn makes them more risk prone. The opposite applies to people who are poor. Decision theory provides us with a powerful tool in utility functions which allow us to model the risk attitude of different people with a function that is pre defined. We will delve into this in depth.
